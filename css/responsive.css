@@ -22,6 +22,10 @@
     padding: 75px 0;
   }
 
+  .header_section .header_top .contact_nav a span {
+    display: none;
+  }
+
 
 }
 
@@ -54,8 +58,9 @@
 }
 
 @media (max-width: 576px) {
-  .header_section .header_top .contact_nav a span {
-    display: none;
+  
+  .navbar-brand span {
+    display:none;
   }
 
 

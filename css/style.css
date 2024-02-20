@@ -175,6 +175,11 @@ a:focus {
   padding-left: 35px;
 }
 
+.top_logo {
+  display:grid;
+  text-align: center;
+  background-color: white ;
+}
 .custom_nav-container {
   padding: 0;
 }
